@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="colorPrimary">#4AE91A</color>
+    <color name="colorPrimaryDark">#1D913C</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="alarmsListTableHeaderCellBackground">#FFFFFF</color>
+    <color name="alarmsListTableCellBackground">#FFFFFF</color>
+    <color name="alarmsListTableHeaderCellBound">#FFFFFF</color>
+    <color name="alarmsListTableCellBound">#FFFFFF</color>
+</resources>

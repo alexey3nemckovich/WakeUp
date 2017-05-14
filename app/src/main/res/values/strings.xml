@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Wake up</string>
+
+    <string name="add_alarm">Add alarm</string>
+
+    <string name="song">Song</string>
+    <string name="time">Time</string>
+    <string name="state">State</string>
+
+    <string name="wake_up">Wake up</string>
+
+</resources>
