@@ -19,7 +19,7 @@ public class AlarmActivity extends AppCompatActivity
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_alarm);
 
-        ImageButton buttonOk = (ImageButton) findViewById(R.id.button);
+        Button buttonOk = (Button) findViewById(R.id.button);
         buttonOk.setOnClickListener(this);
 
         getWindow().addFlags(WindowManager.LayoutParams.FLAG_TURN_SCREEN_ON);

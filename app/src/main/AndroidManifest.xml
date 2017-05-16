@@ -27,6 +27,7 @@
         </activity>
         <activity
             android:name="android.bsuir.com.wakeup.activity.info.AlarmInfoActivity"
+            android:screenOrientation="portrait"
             android:parentActivityName="android.bsuir.com.wakeup.activity.main.MainActivity"/>
         <activity android:name="android.bsuir.com.wakeup.activity.alarm.AlarmActivity"/>
     </application>
